@@ -1,0 +1,5 @@
+{
+  "name": "Smart Excel Aggregator",
+  "description": "A powerful utility to aggregate and analyze spreadsheet data (XLS, XLSX) from multiple sources with AI-driven insights using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
